@@ -1,0 +1,10 @@
+Right click and open terminal from the folder
+
+TAKE BACKUP BEFORE YOU PROCEED. Store the copy of the file to a different folder
+
+1. git init
+2. git pull origin master
+3. git status
+4. git add .
+5. git commit -m "your_name date(dd/mm)"
+6. git push origin master

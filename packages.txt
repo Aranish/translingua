@@ -1,0 +1,34 @@
+pycld2
+pyicu
+morfessor
+
+
+
+Korean
+korean_romanizer
+https://github.com/osori/korean-romanizer
+
+Chinese
+xpinyin
+https://pypi.org/project/xpinyin/
+
+Japanese
+cutlet
+#unidic-lite
+https://github.com/polm/cutlet
+
+Thai
+pythainlp, pythainlp.transliterate
+https://pythainlp.github.io/docs/2.0/api/transliterate.html
+https://github.com/PyThaiNLP/pythainlp
+
+Russian
+cyrtranslit
+https://github.com/opendatakosovo/cyrillic-transliteration
+Bulgarian, Montenegrin, Macedonian, Russian, Serbian, Tajik, Ukrainian
+
+Bengali
+indic-transliteration
+
+Hindi, Tamil, Telegu
+

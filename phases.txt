@@ -1,0 +1,35 @@
+Phase 1: One to One compatibility
+- Romanization of korean to english
+- Translating korean to english
+
+Phase 2: One to Many compatibility
+- finding languages and libraries
+- Adding mandarin, japanese, indonesian, thai,
+russian, bengali, hindi, tamil, telegu
+- Identifying languages
+
+Phase 3: Github and Heroku
+- Pushing ptoject to github
+- Heroku requirements
+
+Phase 4: Webapp and testing
+- Creating webapp with python flask
+- Displaying romanization and translation
+- Testing with people
+
+Phase 5: Modularising and packaging
+- Creating modular python files
+- Create a package from the application
+- Upload to github
+
+Phase n: Many to one/backward compatibility
+- Converting from English to other languages
+- 
+
+Phase n+1: Many to Many
+-
+- 
+
+Phase n+2: Creating library capability
+
+transliteration
