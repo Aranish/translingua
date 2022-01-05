@@ -128,6 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/push.txt
-/pull.txt
+push.txt
+pull.txt
+Untitled.ipynb
 .ipynb_checkpoints/
